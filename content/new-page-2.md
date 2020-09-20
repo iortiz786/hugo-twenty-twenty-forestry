@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = "New Page 2"
+title = "Sweet"
 [menu.desktop]
 name = "Cool Link"
 weight = 2
