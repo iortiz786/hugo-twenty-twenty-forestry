@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "github.com/themefisher/twenty-twenty-hugo"
-title = "Twenty Twenty Hugo for Forestr"
+title = "Bullpenn"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
